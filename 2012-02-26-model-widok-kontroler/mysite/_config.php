@@ -4,7 +4,7 @@ global $project;
 $project = 'mysite';
 
 global $database;
-$database = 'SS_techniki_ss_2012-02-26';
+$database = 'SS_techniki_2012-02-26';
 
 require_once('conf/ConfigureFromEnv.php');
 
